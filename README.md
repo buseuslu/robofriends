@@ -1,2 +1,2 @@
-robofriends React app
-Available at https://buseuslu.github.io/robofriends/
+robofriends React app, 
+available at https://buseuslu.github.io/robofriends/
